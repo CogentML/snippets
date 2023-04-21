@@ -5,7 +5,7 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 
 # Create a file handler that logs all messages to a file named 'output.log'
-file_handler = logging.FileHandler('output1.log')
+file_handler = logging.FileHandler('output.log')
 file_handler.setLevel(logging.DEBUG)
 
 # Create a formatter that formats log messages
