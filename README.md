@@ -9,5 +9,5 @@
 - Run following command in the terminal.
 
 ```python
-pip freeze > requirements. txt
+pip freeze > requirements.txt
 ```
