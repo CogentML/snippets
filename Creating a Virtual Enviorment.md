@@ -8,7 +8,7 @@ Open terminal
 
 Type
 ```python
-py -3 -m venv ven
+py -3 -m venv venv
 ```
 This will create a folder name as 'vev' in your project folder
 
