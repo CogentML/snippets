@@ -12,7 +12,7 @@
 pip freeze > requirements.txt
 ```
 
-## How to instal packages from requirments file
+## How to install packages from requirments file
 
 - Run following command in the terminal.
 ```python
