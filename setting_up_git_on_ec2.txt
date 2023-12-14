@@ -1,0 +1,27 @@
+sudo apt install git
+
+git config --global user.name "CogentML"
+
+git config --global user.email "analytics.admin@cogentinfo.com"
+
+git clone https://github.com/CogentML/aria.git
+
+git clone https://github.com/CogentML/aria.git
+
+
+# To generate ssh key
+ssh-keygen -t rsa -b 4096 -C "analytics.admin@cogentinfo.com"
+
+
+Public ssh key
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDHnFvkbrTwjlN9xV8w6uBq7b8UnJc5lSniISWfKMoyPDKLprjnW347lbR5wx/2x6GsJ+SACU6W2Dy0QjLIMGPiW7ahwYVQDWH/l0rZ+IkrB9vkqtA2NViDN6kMc3objEwb+JLN5JeeF5vOPyqx/W8PqWmqIFImfD0pw8zzZS+ZF6lJqAuvSIv8MddvqE0mJT8vqO38d6p+o1LRvRqqwLozLpCteHvw7li7oT9/jTgkXQ7BwnPLundOI8GsXJrsrvisGWJk+2heVxgFfi2FGNXg2DVBXmymYw40UxAuoRFlF/XbPhGzTWwrZoivHszUdQyAcnNnY7yaHAYn0UL0S3V30iQqBGG+hhivZ2lLjTGR7HRE8XmzbcIhEywTZ1uOj0sHN+RaZmB19OsP8qKqywSKwHeLWYrH91NRopnRCO4ul6kdUs85QTkDq6XDpPADqpYm+vpK2JC4GNMtDW+lta0+wTDpYznWiZyXo3OVZVHpCMStKCeWHMATClgU5f4K8fjWo9pQCR4KhXsQOoU/YjYIDL895JRvSFAURqh/8wsIjl9PpBKBMW9FYKsqnXOoQ4yigOW7u2/Got905OHSmx7IwU3uTs46HaJSQBTjCHaXFk7hH1bt9CUOXFrPy8ExaBP+AeLMOOyiCwdWgG9XiGB18ztHAM/478UgyCdEIJGHxQ== analytics.admin@cogentinfo.com
+
+# Add above ssh key to 
+
+
+
+
+
+
+
